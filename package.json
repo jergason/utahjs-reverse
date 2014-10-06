@@ -1,0 +1,19 @@
+{
+  "name": "utahjs-reverse",
+  "version": "2.0.0",
+  "description": "reverse",
+  "browserify": {
+    "transform": "reactify"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"HURP DUPR\""
+  },
+  "dependencies": {
+    "react": "0.11.*",
+    "reactify": "~0.14.0",
+    "browserify": "~5.12.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
